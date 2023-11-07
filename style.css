@@ -1,0 +1,176 @@
+body, html{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 26px;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+  
+}
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    padding: 0;
+    font-family: 'Marcellus SC', serif;
+}
+p{
+    margin: 0;
+
+}
+a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;color: #5b5b5b;
+}
+.navbar img {
+    padding-left: 20px;
+    
+}
+.slider img {
+    height: 660px;
+    background-color: black;
+ 
+}
+.slider{
+    background: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9));
+}
+.slider button,p,h1,h2,h1{
+   
+    padding-bottom: 0px;
+}
+.slider button h2{
+    letter-spacing: 2px;
+    font-size: 45px;
+}
+.hading{
+    margin-bottom: 126px;
+}
+.third {
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url(images/service_bg.jpg);
+}
+
+.fifth {
+    
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url(images/progrees_bg.jpg);
+}
+
+
+
+
+
+
+
+
+.pro {
+
+    padding-bottom: 0px;
+    margin-top: 25px;
+}
+
+
+.pro .progress-bar span{
+    margin-top: -50px;
+    background-color: aquamarine;
+}
+.slider img{
+    height: 350;
+    width: 100%;
+    position: relative;
+
+}
+.colour{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+.sixth a{
+    text-decoration: none;
+    list-style-type: none;
+   padding-left: 15px;
+   padding-right: 15px;
+   color: black;
+    
+}
+.sixth a:hover{
+    background-color: green;
+    color: white;
+}
+
+.sixth ul li{
+    list-style-type: none;
+    text-align: center;
+    border: 2px solid green;
+    margin-left: 558px;
+    margin-right: 619px;
+    margin-top: 32px;
+    display: block;
+    color: white;
+    
+}
+.seven{
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url(images/counter_img.jpg);
+    width: 100%;
+}
+
+
+.second img{
+    height: 100%;
+    padding-top: 36px;
+    margin-bottom: 0px;
+    margin-top: 49px;
+    padding-bottom: 0px;
+}
+
+
+
+.eight h2{
+
+    margin-top: -84px;
+    margin-bottom: 40px;
+    margin-left: 126px;
+    margin-right: 126px;
+}
+.eone{
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+
+.nine{
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url(images/blog_bg.jpg);
+}
+
+
+
+.none{
+    margin-top: 40px;
+}
+.ntwo{
+    padding-bottom: 90px;
+}
+.ntwo img{
+    position: relative;
+}
+.ntwo h3{
+    margin-top: -82px;
+    margin-bottom: 40px;
+    margin-left: 175px;
+    margin-right: 126px;
+    padding-left: 12px;
+    padding-right: 12px;
+    position: absolute;
+    background-color: green;
+    box-shadow: 7px -8px white;
+}
+.ntwo button:hover{
+    background-color: green;
+    color: white;
+}
+.ntwo button{
+    color: green;
+}
+
